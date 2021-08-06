@@ -1,2 +1,2 @@
 # CGV_Assignment
-Simulation of Graph Algorithms animatively
+Simulation of Dijkstra's Algorithm animatively
